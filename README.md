@@ -99,6 +99,7 @@
   <summary>전우진(<a href="https://github.com/m40ro">@m40ro</a>) [팀원]</summary>
   <ul>
     <li>사용자단 사이트 맵 작성</li>
+    <li>OVEN 제작</li>
     <li>[사용자] 로그인 페이지 HTML 및 CSS 작업</li>
     <li>[사용자] 로그인, 소셜 로그인, 회원가입 아이디/비밀번호 찾기 기능 구현</li>
     <li>[관리자] 상품 질문 페이지 HTML 및 CRUD 기능, 검색 및 페이징 기능 구현</li>
